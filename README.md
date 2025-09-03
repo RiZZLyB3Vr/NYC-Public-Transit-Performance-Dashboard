@@ -15,6 +15,8 @@ The final product is a two-page interactive report that provides a holistic view
 Page 1: Subway Ridership Analysis
 This page focuses on understanding passenger traffic.
 
+![Screenshot of the Subway Ridership Dashboard](https://github.com/RiZZLyB3Vr/NYC-Public-Transit-Performance-Dashboard/blob/5d869b1cb322276a65068c24af6f9b3037850612/subway-dashboard.jpg)
+
 Key Metrics: A high-level view of total subway ridership for the period.
 
 Geospatial Analysis: A map visualizes all subway stations, with bubble sizes representing passenger volume, making it easy to spot the busiest hubs.
@@ -25,6 +27,8 @@ Leaderboards: Bar charts rank the top 10 busiest stations and subway lines.
 
 Page 2: Bus Performance Analysis
 This page is dedicated to operational efficiency and service reliability.
+
+![Screenshot of the Bus Performance Dashboard](https://github.com/RiZZLyB3Vr/NYC-Public-Transit-Performance-Dashboard/blob/5d869b1cb322276a65068c24af6f9b3037850612/bus-dashboard.jpg)
 
 Key Metrics: KPI cards for the total number of incidents (breakdowns and delays) and the average delay duration in minutes.
 
